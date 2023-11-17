@@ -1,3 +1,4 @@
 hi this is a sample page connected with git hub and it started working
 welcome to git hub....
 with a new day
+somethings changed
