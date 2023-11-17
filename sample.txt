@@ -1,1 +1,1 @@
-hi this is a sample page connected with git hub
+hi this is a sample page connected with git hub and it started working
